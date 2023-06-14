@@ -1,0 +1,8 @@
+AutoMated Mailing System:
+
+This acts as a Reminder System for companies.
+Requirements to run the code:
+1. yarn
+2. Peer
+3. Npm Server
+4. Auth and Security key required to be created using Google Security (Replace the Auth Block)
